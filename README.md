@@ -1,18 +1,12 @@
-## Getting Started
+# Scientific Calculator - Java Swing Text Editor
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is a simple text editor implemented in Java Swing that provides basic text editing functionalities similar to Notepad along with some additional features like word wrap, find and replace, different themes, font customization, etc.
 
-## Folder Structure
+## Features
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- **File Operations**: New, Open, Save, Save As, and Exit functionality.
+- **Edit Operations**: Cut, Copy, Paste, Delete, Clear, and Select All.
+- **Search Operations**: Find and Replace.
+- **Formatting**: Word Wrap, Font selection, Font color, and Background color.
+- **Themes**: Light and Dark themes for better readability.
+- **Help**: About information.
